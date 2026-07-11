@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pulibharat/leet_code/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pulibharat/leet_code/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/pulibharat/leet_code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
 ## Recursion
