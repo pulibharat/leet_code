@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/pulibharat/leet_code/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/pulibharat/leet_code/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pulibharat/leet_code/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pulibharat/leet_code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/pulibharat/leet_code/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pulibharat/leet_code/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
