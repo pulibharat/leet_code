@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pulibharat/leet_code/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/pulibharat/leet_code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pulibharat/leet_code/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pulibharat/leet_code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pulibharat/leet_code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pulibharat/leet_code/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pulibharat/leet_code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
