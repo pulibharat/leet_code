@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pulibharat/leet_code/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/pulibharat/leet_code/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
@@ -41,9 +42,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/pulibharat/leet_code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pulibharat/leet_code/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/pulibharat/leet_code/tree/master/0260-single-number-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pulibharat/leet_code/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
