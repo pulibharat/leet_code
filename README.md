@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pulibharat/leet_code/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/pulibharat/leet_code/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/pulibharat/leet_code/tree/master/1486-xor-operation-in-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pulibharat/leet_code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
