@@ -2,44 +2,50 @@
 //     public int[] nextGreaterElements(int[] nums) {
 
 //         int n = nums.length;
-//         int ans[] = new int[n];
-    
+//         int[] ans = new int[n];
+
+//         Arrays.fill(ans, -1);
 
 //         for (int i = 0; i < n; i++) {
-//             int el = nums[i];
+
 //             for (int j = i + 1; j <= i + n - 1; j++) {
-//                int index = (i + j) % n;
-//                if(nums[j]>el){
-//                 ans[i] = nums[j];
-//                }
-//                else{
-//                 ans[i] = -1;
-//                }
+
+//                 int index = j % n;
+
+//                 if (nums[index] > nums[i]) {
+//                     ans[i] = nums[index];
+//                     break;
+//                 }
 //             }
 //         }
-// return ans;
+
+//         return ans;
 //     }
 // }
+
 
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
 
         int n = nums.length;
+        Stack<Integer> stack = new Stack<>();
         int[] ans = new int[n];
 
-        Arrays.fill(ans, -1);
+        for (int i = 2 * n - 1; i >= 0; i--) {
 
-        for (int i = 0; i < n; i++) {
+            while (!stack.isEmpty() && stack.peek() <= nums[i % n]) {
+                stack.pop();
+            }
 
-            for (int j = i + 1; j <= i + n - 1; j++) {
-
-                int index = j % n;
-
-                if (nums[index] > nums[i]) {
-                    ans[i] = nums[index];
-                    break;
+            if (i < n) {
+                if (stack.isEmpty()) {
+                    ans[i] = -1;
+                } else {
+                    ans[i] = stack.peek();
                 }
             }
+
+            stack.push(nums[i % n]);
         }
 
         return ans;
