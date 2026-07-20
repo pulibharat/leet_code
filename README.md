@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/pulibharat/leet_code/tree/master/0191-number-of-1-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pulibharat/leet_code/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/pulibharat/leet_code/tree/master/0260-single-number-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/pulibharat/leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pulibharat/leet_code/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
@@ -93,4 +95,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pulibharat/leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pulibharat/leet_code/tree/master/0503-next-greater-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
