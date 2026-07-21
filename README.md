@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pulibharat/leet_code/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/pulibharat/leet_code/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pulibharat/leet_code/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/pulibharat/leet_code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pulibharat/leet_code/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pulibharat/leet_code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pulibharat/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pulibharat/leet_code/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/pulibharat/leet_code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pulibharat/leet_code/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/pulibharat/leet_code/tree/master/0496-next-greater-element-i) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pulibharat/leet_code/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pulibharat/leet_code/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pulibharat/leet_code/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/pulibharat/leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pulibharat/leet_code/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
