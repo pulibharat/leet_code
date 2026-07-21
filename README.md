@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/pulibharat/leet_code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pulibharat/leet_code/tree/master/0503-next-greater-element-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pulibharat/leet_code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Backtracking
 |  |
 | ------- |
