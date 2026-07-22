@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pulibharat/leet_code/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pulibharat/leet_code/tree/master/0231-power-of-two) |
+| [1025-divisor-game](https://github.com/pulibharat/leet_code/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/pulibharat/leet_code/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/pulibharat/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pulibharat/leet_code/tree/master/0042-trapping-rain-water) |
+| [1025-divisor-game](https://github.com/pulibharat/leet_code/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pulibharat/leet_code/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/pulibharat/leet_code/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
