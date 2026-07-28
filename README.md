@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/pulibharat/leet_code/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/pulibharat/leet_code/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/pulibharat/leet_code/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/pulibharat/leet_code/tree/master/0260-single-number-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/pulibharat/leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0496-next-greater-element-i](https://github.com/pulibharat/leet_code/tree/master/0496-next-greater-element-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pulibharat/leet_code/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/pulibharat/leet_code/tree/master/0085-maximal-rectangle) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
