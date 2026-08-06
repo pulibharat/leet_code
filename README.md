@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pulibharat/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/pulibharat/leet_code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pulibharat/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/pulibharat/leet_code/tree/master/0344-reverse-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pulibharat/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/pulibharat/leet_code/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pulibharat/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
