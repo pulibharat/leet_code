@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
