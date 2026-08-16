@@ -25,7 +25,7 @@ class Solution {
             int len = r - l + 1;
             maxLen = Math.max(len, maxLen);
 
-            hash[s.charAt(r)] = r;
+            hash[s.charAt(r)] = r; // hash[s.charAt(r)] -> gives number inside 
 
             r++;
         }
