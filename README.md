@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pulibharat/leet_code/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/pulibharat/leet_code/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/pulibharat/leet_code/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/pulibharat/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pulibharat/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/pulibharat/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pulibharat/leet_code/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/pulibharat/leet_code/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Stack
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pulibharat/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/pulibharat/leet_code/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/pulibharat/leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/pulibharat/leet_code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pulibharat/leet_code/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
