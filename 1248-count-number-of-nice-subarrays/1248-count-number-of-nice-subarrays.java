@@ -37,3 +37,37 @@ class Solution {
    }
 
 }
+
+
+
+// class Solution {
+//     public int countSubarrays(int[] arr, int k) {
+//         // code here
+        
+//         int n = arr.length;
+//         int cnt = 0;
+        
+        
+//         for(int i =0; i<n ;i++){
+            
+//             int oddcnt = 0;
+            
+//             for(int j =i;j<n;j++){
+                
+//                 if(arr[j]%2 != 0){
+//                     oddcnt++;
+//                 }
+                
+//                 if(oddcnt > k){
+//                     break;
+//                 }
+                
+//                 if( oddcnt == k){
+//                     cnt++;
+//                 }
+//             }
+//         }
+        
+//         return cnt;
+//     }
+// }
